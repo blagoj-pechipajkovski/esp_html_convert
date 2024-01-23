@@ -1,2 +1,3 @@
 # esp_html_convert
-Convert HTML files to a header file for Arduino ESP32/ESP8266
+
+Convert HTML files to a single header file for Arduino ESP32/ESP8266
